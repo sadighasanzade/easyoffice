@@ -52,20 +52,6 @@ afterEvaluate {
                 artifactId = "EasyOffice"
                 version = "1.0"
 
-                pom {
-                    name.value("EasyOffice")
-                    description.value("Powerful and flexible RecyclerAdapter")
-                    url.value("https://github.com/sadighasanzade/easyoffice")
-
-
-                    developers {
-                        developer {
-                            id.value("sadighasanzade")
-                            name.value("sadighasanzade")
-                            email.value("sadig.hasanzade@gmail.com")
-                        }
-                    }
-                }
             }
 
         }
