@@ -50,7 +50,7 @@ afterEvaluate {
                 from(components.findByName("release"))
                 groupId = "com.github.sadighasanzade"
                 artifactId = "EasyOffice"
-                version = "1.3"
+                version = "1.4"
 
             }
 
