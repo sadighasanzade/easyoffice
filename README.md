@@ -24,7 +24,7 @@
         .setFileName("report_a.xls")
         .setData(data)
         .build()
-- data should be Map<String, List<String>>
+- data should be Map<String, List< String >>
 - build() function convert data to excel file and save it to external storage of the device, finally returns absolute path of the file
 
 ### Example app
