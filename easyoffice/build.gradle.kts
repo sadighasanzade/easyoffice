@@ -49,8 +49,8 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 from(components.findByName("release"))
                 groupId = "com.github.sadighasanzade"
-                artifactId = "EasyOffice"
-                version = "1.4"
+                artifactId = "easy-office"
+                version = "1.5"
 
             }
 
