@@ -5,4 +5,4 @@ before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
   - FILE="-Dfile=easyoffice-release.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.sadighasanzade -DartifactId=easy-office -Dversion=1.7 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.github.sadighasanzade -DartifactId=easy-office -Dversion=1.8 -Dpackaging=aar -DgeneratePom=true

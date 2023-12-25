@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.sadighasanzade</groupId>
     <artifactId>easy-office</artifactId>
-    <version>1.7</version>
+    <version>1.8</version>
     <packaging>pom</packaging>
     <description>DESCRIPTION</description>
 </project>

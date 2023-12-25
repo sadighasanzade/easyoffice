@@ -9,7 +9,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        minSdk = 23
+        minSdk = 21
     }
 
     buildTypes {
@@ -50,7 +50,8 @@ afterEvaluate {
                 from(components.findByName("release"))
                 groupId = "com.github.sadighasanzade"
                 artifactId = "easy-office"
-                version = "1.7"
+                version = "1.8"
+                description = "DESCRIPTION"
 
             }
 
